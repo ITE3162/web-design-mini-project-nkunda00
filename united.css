@@ -1,0 +1,194 @@
+ .bb{
+     background-color: rgb(240, 255, 240);
+     width: 100%;
+ }
+ 
+ .sti{
+     margin-top: 2%;
+    display: flex;
+
+ }
+ .stiv{
+    background-color: rgb(250, 218, 159);
+    margin-left: 7%;
+    margin-top: 0%;
+width: 27%;
+
+}
+.stiv2
+{
+    background-color: rgb(250, 218, 159);
+    margin-left: 2%;
+    width: 27%;
+
+}
+.stiv3
+{
+    background-color: rgb(250, 218, 159);
+    margin-left: 2%;
+    width: 27%;
+}
+.heh
+{background-color: rgb(36, 122, 58);
+    text-align: right;
+   margin-left: 87%;
+    color: rgb(246, 246, 252);
+    margin-top: 3%;}
+    .bv
+    {
+        margin-right: 8%;
+    }
+    
+
+.mmm
+{
+    background-color: darkred;
+margin-left: 7%;
+margin-right: 8%;
+
+}
+.m{
+    color: honeydew;
+    margin-left: 10%;
+}
+.mm{
+    color: honeydew;
+}
+.mmmm
+{
+    color: honeydew;
+}
+.mn{
+    color: honeydew;
+}
+.futh
+{ 
+    margin-top: 2%;
+    display: flex;
+margin-left: 7%;
+}
+.fuu
+{
+   
+    
+    background-color: rgb(64, 245, 245);
+    margin-right: 0%;
+    width: 30%;
+}
+.fuuu
+{
+    
+    background-color: rgb(64, 245, 245);
+    margin-right: 0%;
+    width: 61%;
+}
+.ggg
+{
+    margin-top: 2%;
+    width: 100%;
+    margin-left: 25%;
+  
+}
+.vv
+{
+   
+   margin-left: 0%;
+   margin-top: 5%;
+}
+.ww{
+   margin-top: 0%;
+   margin-left: 7%;
+}
+.dd{
+margin-top: 0%;
+margin-left: 7%;
+}
+.bbc
+{
+    background-color: rgb(33, 19, 43);
+  margin-top: 0%;
+  height: 15%;
+}
+.bbc1
+{ 
+       background-color: rgb(181, 7, 7);
+    margin-top: 0%;
+    height: 15%;
+
+}
+.bbc2
+{
+    background-color: rgb(64, 245, 245);
+    margin-top: 0%;
+    height: 15%;
+}
+
+.n
+{
+    width: auto;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+}
+.nn{
+    color: rgb(8, 1, 3);
+    font-style: italic;
+    font-size: medium;
+font-size: 100%;
+text-align: center;
+}
+.format
+{ 
+    color: rgb(1, 10, 10);
+    text-align:left ;
+}
+.comm
+{
+    font-size: 100%;
+}
+.stev{
+    height: 70%;
+margin-left: 7%;
+}
+.nana{
+    display: flex;
+height: 70%;
+}
+.has1
+{
+    
+    height: 40%;
+    margin-left: 10%;
+    color: rgb(1, 10, 10);
+  
+}
+.bn
+{
+    margin-left: 10%;
+}
+.bebe
+{
+    display: flex;
+    margin-left: 3%;
+    height: 50%;
+    width: 100%;
+}
+.pp
+{
+    height: 50%;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.oo
+{
+    height: 50%;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+}
+.ll{
+    height: 50%;
+    width: 30%;
+    margin-left: 3%;
+    margin-top: 2%;
+}
